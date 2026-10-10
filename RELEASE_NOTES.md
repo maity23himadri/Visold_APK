@@ -1,6 +1,12 @@
-# Visold Android v1.0
+# Visold Android Releases
 
-Initial Android APK release artifact.
+## v1.1
+
+- ABI: `arm64-v8a`
+- Artifact: `Visold-Android-v1.1.apk`
+- SHA-256: `5712febedf962b3cb93f749771271c215041bf28861736597d31e81cc1a20922`
+
+## v1.0
 
 - ABI: `arm64-v8a`
 - Artifact: `Visold-Android-v1.0(1).apk`
