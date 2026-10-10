@@ -20,3 +20,7 @@ Only install APKs from sources you trust. Verify the SHA-256 checksum when possi
 ## Repository scope
 
 This repository contains Android release artifacts and release documentation only. It is intentionally separate from the Visold blockchain source repositories and does not modify or replace the Visold codebase.
+
+## Maintainer
+
+**Himadri Maity** ([`@maity23himadri`](https://github.com/maity23himadri))
