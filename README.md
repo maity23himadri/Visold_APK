@@ -27,6 +27,10 @@ Only install APKs from sources you trust. Verify the SHA-256 checksum when possi
 
 This repository contains Android release artifacts and release documentation only. It is intentionally separate from the Visold blockchain source repositories and does not modify or replace the Visold codebase.
 
+## Main codebase
+
+The main public Visold blockchain codebase is [`maity23himadri/Visold_blockchain`](https://github.com/maity23himadri/Visold_blockchain). This APK repository contains Android release artifacts; refer to the linked repository for the blockchain source code.
+
 ## Maintainer
 
 **Himadri Maity** ([`@maity23himadri`](https://github.com/maity23himadri))
