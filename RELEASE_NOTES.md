@@ -6,6 +6,8 @@ The release labels below follow the current version mapping. APK filenames are r
 
 **Consensus update:** This latest APK includes a consensus change compared with previous builds. Review compatibility before installing.
 
+**Testnet status:** This release is currently on testnet.
+
 **Recommendation:** Download the latest release for the best experience.
 - ABI: `arm64-v8a`
 - Artifact: `Visold-Android-v1.1(2).apk`
