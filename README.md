@@ -11,7 +11,7 @@ Standalone public distribution repository for the **Visold Android application**
 | v1.1.0 | [`Visold-Android-v1.1.apk`](releases/Visold-Android-v1.1.apk) | `arm64-v8a` | `5712febedf962b3cb93f749771271c215041bf28861736597d31e81cc1a20922` |
 | v1.0.0 | [`Visold-Android-v1.0(1).apk`](releases/Visold-Android-v1.0%281%29.apk) | `arm64-v8a` | `afe3277b6aa6450bc2faeccde377bd9f0f0b0b75c92ee27be5dfc6240e71c365` |
 
-> **Warning — applies to every build listed above:** Consensus changed in this build. Do not install it.
+> **Consensus update (v1.1.2):** The latest APK includes a consensus change compared with previous builds. Review compatibility before installing.
 
 ## Installation
 

@@ -4,7 +4,7 @@ The release labels below follow the current version mapping. APK filenames are r
 
 ## v1.1.2
 
-**Warning:** Consensus changed in this build. Do not install it.
+**Consensus update:** This latest APK includes a consensus change compared with previous builds. Review compatibility before installing.
 - ABI: `arm64-v8a`
 - Artifact: `Visold-Android-v1.1(2).apk`
 - SHA-256: `c08c42aeec7192d2c6c5950aa3c655f39ce9126f45a61e96e27d9245178fe1dc`
