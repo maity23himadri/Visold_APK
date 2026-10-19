@@ -2,11 +2,17 @@
 
 The release labels below follow the current version mapping. APK filenames are retained as originally uploaded.
 
+## v1.1.4
+- ABI: `arm64-v8a`
+- Artifact: `Visold_v1.1(1).apk`
+- SHA-256: `2f2ebfdfa9cbbcdc1acdf9c7a6642f4236efca5d91ae6b75735e9119a47d9096`
+- Recommendation: Download the latest release for the best experience.
+
 ## v1.1.3
+- Consensus update: This build included a consensus change compared with previous builds. Review compatibility before installing it.
 - ABI: `arm64-v8a`
 - Artifact: `Visold-Android-v1.1(3).apk`
 - SHA-256: `156d441b8f8ec0979f55b495cea8dfffc04bbc08a0c1e6e1f80bf1d72e650285`
-- Recommendation: Download the latest release for the best experience.
 
 ## v1.1.2
 - Consensus update: This build introduced a consensus change compared with previous builds. Review compatibility before installing this build.
