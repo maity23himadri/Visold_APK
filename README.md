@@ -6,6 +6,7 @@ Standalone public distribution repository for the **Visold Android application**
 
 | Release | Download | ABI | SHA-256 |
 |---|---|---|---|
+| v1.1.8 | [`Visold_v1.1(7).apk`](releases/Visold_v1.1%287%29.apk) | `arm64-v8a` | `ef14d333bc5ef6bf4ac2e6453be95975821faa2c1110d167bb03b6255e592546` |
 | v1.1.7 | [`Visold_v1.1(6).apk`](releases/Visold_v1.1%286%29.apk) | `arm64-v8a` | `bdccde29d6ee47e252bd613d67600a4b97875755fc88d199e1290e8089d241fa` |
 | v1.1.6 | [`Visold_v1.1(5).apk`](releases/Visold_v1.1%285%29.apk) | `arm64-v8a` | `5f7cdda9b054ff2575332823f7e487e0af96eb97fd4474a01f6e1d7caa7c9ac3` |
 | v1.1.5 | [`Visold_v1.1(4).apk`](releases/Visold_v1.1%284%29.apk) | `arm64-v8a` | `a79f4eb9f552afe3015d9da31022bb06f7e25d6cb997e04fd4d602d87f3e0906` |
