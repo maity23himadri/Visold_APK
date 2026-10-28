@@ -6,6 +6,7 @@ Standalone public distribution repository for the **Visold Android application**
 
 | Release | Download | ABI | SHA-256 |
 |---|---|---|---|
+| V4.5.6 | [`Visold_v4.5(3).apk`](releases/Visold_v4.5%283%29.apk) | `arm64-v8a` | `9edbbe08936c0d2f291c91ebb54462767fbea63eaa15d2163b1dd586ffbb4d0f` |
 | V4.5.5 | [`Visold_v4.5(2).apk`](releases/Visold_v4.5%282%29.apk) | `arm64-v8a` | `57f2faec5e08b9c2ceac8769b4453992c501f67a66cced51b7c2198a2f8295f0` |
 | V4.5.3 | [`Visold_v4.5(1).apk`](releases/Visold_v4.5%281%29.apk) | `arm64-v8a` | `0c1b708d502fdb722da613ceb3fa440aabb0c7818f3c0a39779957d6bb0c3215` |
 | v4.0.2 | [`Visold_v4.0.apk`](releases/Visold_v4.0.apk) | `arm64-v8a` | `d5854fe760d6eba30764fd8df73223c3ad014e0aed474f0d04a9cbbec2db5d6c` |
@@ -24,7 +25,7 @@ Standalone public distribution repository for the **Visold Android application**
 
 > **Consensus update (v1.1.3):** This build included a consensus change compared with previous builds. Review compatibility before installing it.
 > **Testnet status:** Visold is currently on testnet.
-> **Recommendation:** Download V4.5.5 for the latest release.
+> **Recommendation:** Download V4.5.6 for the latest release.
 
 ## Installation
 
