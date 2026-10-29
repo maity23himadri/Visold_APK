@@ -3,6 +3,7 @@ afe3277b6aa6450bc2faeccde377bd9f0f0b0b75c92ee27be5dfc6240e71c365  releases/Visol
 c08c42aeec7192d2c6c5950aa3c655f39ce9126f45a61e96e27d9245178fe1dc  releases/Visold-Android-v1.1(2).apk
 156d441b8f8ec0979f55b495cea8dfffc04bbc08a0c1e6e1f80bf1d72e650285  releases/Visold-Android-v1.1(3).apk
 5712febedf962b3cb93f749771271c215041bf28861736597d31e81cc1a20922  releases/Visold-Android-v1.1.apk
+07db4597dae47e5ccc629a7897c84bd5b3e2cd67fa4d5deea0079e66a9f2b2da  releases/Visold-v4.6.apk
 2f2ebfdfa9cbbcdc1acdf9c7a6642f4236efca5d91ae6b75735e9119a47d9096  releases/Visold_v1.1(1).apk
 a79f4eb9f552afe3015d9da31022bb06f7e25d6cb997e04fd4d602d87f3e0906  releases/Visold_v1.1(4).apk
 5f7cdda9b054ff2575332823f7e487e0af96eb97fd4474a01f6e1d7caa7c9ac3  releases/Visold_v1.1(5).apk
