@@ -1,12 +1,20 @@
 # Visold Android Releases
 
+Release labels follow the current version mapping; APK filenames are retained as supplied. No detailed feature notes were provided for V5.0.0.
+
+## V5.0.0
+- ABI: `arm64-v8a`
+- Artifact: `Visold-v5.0.apk`
+- SHA-256: `e3c6a8b423a51ed730eb692b977e8b541230dc43b4762466ccfa79b613247c16`
+- Recommendation: This is the latest release.
+
 Release labels follow the current version mapping; APK filenames are retained as supplied. No detailed feature notes were provided for V4.6.0.
 
 ## V4.6.0
 - ABI: `arm64-v8a`
 - Artifact: `Visold-v4.6.apk`
 - SHA-256: `07db4597dae47e5ccc629a7897c84bd5b3e2cd67fa4d5deea0079e66a9f2b2da`
-- Recommendation: This is the latest release.
+- Recommendation: Superseded by V5.0.0; retained as the previous release.
 
 Release labels follow the current version mapping; APK filenames are retained as supplied. No detailed feature notes were provided for V4.5.6.
 
