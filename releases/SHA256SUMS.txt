@@ -1,3 +1,4 @@
+74d31bd1760677176e66e8982f69d6540f1612733f560fc4d2e0d24792d44a21  releases/V5.2.1/Visold-v5.2.apk
 afe3277b6aa6450bc2faeccde377bd9f0f0b0b75c92ee27be5dfc6240e71c365  releases/Visold-Android-v1.0(1).apk
 1105dbf3b3d5ccc5df74657ec9bbd2b1fc11ba01b2c9d27b6e56c5ec15c4f363  releases/Visold-Android-v1.1(1).apk
 c08c42aeec7192d2c6c5950aa3c655f39ce9126f45a61e96e27d9245178fe1dc  releases/Visold-Android-v1.1(2).apk
